@@ -57,7 +57,7 @@ Before running this application, make sure you have the following installed on y
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/salmanashraf12/Ecommerce-Task)
 cd ecommerce-product-management
 ```
 
