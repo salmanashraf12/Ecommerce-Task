@@ -10,7 +10,7 @@ import { AuthProvider, useAuth } from "./context/AuthContext.tsx";
 import LoginPage from "./pages/LoginPage.tsx";
 import RegisterPage from "./pages/RegisterPage.tsx";
 import ProtectedRoute from "./components/PrivateRoute.tsx";
-import AuthRedirectRoute from "./components/AuthRedirectRoute.tsx";
+
 
 const queryClient = new QueryClient();
 
