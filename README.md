@@ -98,8 +98,7 @@ Create a `.env` file in the backend directory with the following variables:
 ```env
 DATABASE_URL="postgresql://username:password@localhost:5432/ecommerce_db"
 JWT_SECRET="your-super-secret-jwt-key"
-PORT=5000
-NODE_ENV=development
+
 ```
 
 Replace `username`, `password`, and `ecommerce_db` with your PostgreSQL credentials and database name.
